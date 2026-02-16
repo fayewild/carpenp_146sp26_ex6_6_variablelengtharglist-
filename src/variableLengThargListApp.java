@@ -10,9 +10,9 @@ public class variableLengThargListApp {
     // Create Input variable 
     // Create InputAmmount variable and set it to 0
     // Create Total variable for later use
-    
-    /*Processing Phase*/
     // Solicit user input
+    
+    /*Processing Phase*
     // While (user input != -1)
         // Set Input = user input
         // Arraylist.add(Input)
